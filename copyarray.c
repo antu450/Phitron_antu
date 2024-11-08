@@ -55,3 +55,20 @@ int main(){
 
     return 0;
 }
+
+
+// INPUT:
+// 6
+// 2 4 3 2 5 6
+// OUTPUT:
+// Before Copy
+// 2 4 3 2 5 6 
+// 0 0 0 0 0 0 
+
+// Processing of Copy
+
+// After Copy
+// 2 4 3 2 5 6 
+// 2 4 3 2 5 6 
+    
+
