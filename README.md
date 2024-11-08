@@ -1,2 +1,0 @@
-# Phitron_antu
-siuuuu
